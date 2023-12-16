@@ -2,4 +2,3 @@
 wolf_angel1
 
 --BannedPlayers--
-wolf_angel1
