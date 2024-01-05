@@ -1,5 +1,5 @@
 --Administrators--
-wolf_angel1
+wolf_angel
 
 --BannedPlayers--
 
