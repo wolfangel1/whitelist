@@ -1,1 +1,1 @@
-white-list,wolf_angel,
+white-list,wolf_angel1,
