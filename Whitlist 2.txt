@@ -388,3 +388,5 @@ CurtisEnginring
 -GH0ST
 Nashstar
 BlinxVRC
+SentinelZero
+Jeay
