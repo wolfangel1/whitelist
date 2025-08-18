@@ -1095,9 +1095,6 @@ SaskoHusky
 Demopen
 ༒Hex༒
 riguy17
-<<<<<<< HEAD
 Takinovo
 profesor47
-=======
 Takinovo
->>>>>>> a686f9fa82dff0bddcd0c7c98174191d29fda3a3
