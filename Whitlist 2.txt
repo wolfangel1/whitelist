@@ -1230,9 +1230,6 @@ Koshisaur
 Serena_Love
 BLESSBABS
 RedEpicKraken
-<<<<<<< HEAD
 RayaDeFroglover
 Pup_shadow667
-=======
 RayaDeFroglover
->>>>>>> 17a7d46134c833cb633bba1f3925f1442038bc80
