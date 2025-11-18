@@ -1376,3 +1376,6 @@ TGM69
 LittleNemu
 StellaReaper_Iz
 Cuddle Cupcake
+MoanHydraRex
+Nypz
+Kitrina
